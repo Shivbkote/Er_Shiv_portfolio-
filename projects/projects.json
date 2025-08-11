@@ -1,0 +1,138 @@
+[
+  {
+    "name": "TravoBuddy",
+    "desc": "Feature-rich travel booking app with an intuitive UI/UX design. Built using Figma, Canva, Boxicons, Unsplash, and Bootstrap Icons for a seamless user experience.",
+    "image": "brotravel",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.figma.com/proto/CiC5IXs0nF4j6KRA4i2qjg/BroTravel?node-id=0-1&t=oamVeS14aOhH6V9b-1",
+      "code": "https://www.figma.com/design/CiC5IXs0nF4j6KRA4i2qjg/BroTravel?node-id=0-1&m=dev&t=htcFUgTJpxFZBYZY-1"
+    }
+  },
+  {
+    "name": "Dashantee Studio",
+    "desc": "Dynamic and visually engaging website for Dashantee Studio. Built using HTML, CSS, React JS, EmailJS, and Canva to showcase compelling storytelling and high-quality content.",
+    "image": "Dashantee@imp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.dashanteestudio.com/",
+      "code": "https://www.dashanteestudio.com/"
+    }
+  },
+  {
+    "name": "Personal Portfolio Web",
+    "desc": "A fusion of technology and art, my portfolio website is designed and developed using HTML, CSS, and JavaScript to showcase my accomplishments and creative vision",
+    "image": "portshiv",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shiv-portfolio-tan.vercel.app/",
+      "code": "https://shiv-portfolio-tan.vercel.app/"
+    }
+  },
+    {
+    "name": "TrackSub",
+    "desc": "This is a concept of subscription management app that helps you keep track of all your subscriptions and never forget to cancel them before they renew.",
+    "image": "tracker",
+    "category": "uiux",
+    "links": {
+      "view": "https://www.figma.com/proto/1wnPmjEdO4OJDnbtKSU7Ti/tracksub?node-id=12-2748&t=hj6i9MRK04BamwPm-1",
+      "code": "https://www.figma.com/design/1wnPmjEdO4OJDnbtKSU7Ti/tracksub?node-id=12-2748&m=dev&t=hj6i9MRK04BamwPm-1"
+    }
+  },
+  {
+    "name": "Digital KYC",
+    "desc": "Secure and efficient Digital KYC authentication app. Built using Android Studio, XML, Java, and SQLite for seamless user data storage and verification.",
+    "image": "kyc@imp",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "BizPetro-Bowzar",
+    "desc": "Bizpetro-Bowzer is a smart petrol pump management app designed for efficient tracking of HSD, MS, and SP fuel data.",
+    "image": "biz",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "One Health",
+    "desc": "Scalable and efficient hospital management web application. Built using the MERN stack to streamline patient transfers and enhance healthcare service quality.",
+    "image": "OneHealth@imp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/mrjayrai/onehealth",
+      "code": "https://github.com/mrjayrai/onehealth_frontend"
+    }
+  },
+  {
+    "name": "FoodWave",
+    "desc": "FoodWave: Vibrant wave-inspired UI for seamless food discovery and ordering.",
+    "image": "srkfood",
+    "category": "android",
+    "links": {
+      "view": "https://www.figma.com/proto/GpoipuOsnF7A2njm5WKh14/FoodWave?node-id=0-1&t=aYTR9ox0gLzQnkFy-1",
+      "code": "https://www.figma.com/design/GpoipuOsnF7A2njm5WKh14/FoodWave?node-id=1001-1349&m=dev&t=7DLl1oQ9DWFAR7zV-1"
+    }
+  },
+  {
+    "name": "Petro-lite",
+    "desc": "Petro-liteDriver is a dedicated app for tanker drivers to efficiently log and manage fuel deliveries, including HSD, MS, and SP data.",
+    "image": "petro1",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "foodie Crush",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "foodcrushh",
+    "category": "uiux",
+    "links": {
+      "view": "https://foodie-crush.webflow.io/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "SaucySecrets",
+    "desc": "Visually appealing food menu web design for SaucySecrets. Created using Canva with high-quality Unsplash images for an enticing user experience.",
+    "image": "SaucySecrets",
+    "category": "uiux",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Darpan Tech. Magazine",
+    "desc": "Engaging and visually rich tech magazine for the IT department. Designed using Canva and Adobe Photoshop to showcase tech trends, articles, poems, and student creativity.",
+    "image": "Darpan@imp",
+    "category": "mag",
+    "links": {
+      "view": "https://drive.google.com/file/d/14ID-X8OStYziTHQ4QZ5VBDjNKrhcR-ql/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Tech-Mag Vol-17",
+    "desc": "Visually captivating tech magazine for the IT department. Designed using Canva and Adobe Photoshop, featuring articles, tech trends, messages, and student innovations.",
+    "image": "Techmag@imp",
+    "category": "mag",
+    "links": {
+      "view": "https://drive.google.com/file/d/1DpKi9tfPgt4mM6Y5zpdihGVrRE0EH2ZP/view?usp=sharing",
+      "code": "#"
+    }
+  }
+  
+  
+  
+ 
+]
